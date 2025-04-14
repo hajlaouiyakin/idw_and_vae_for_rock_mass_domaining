@@ -46,7 +46,7 @@ This repository contains code for a research project focused on rock mass domain
 ### Environment
 
 - **`vae_idw_env`**  
-  Contains the required Python environment to run the project.
+  requirements.txt Contains the required Python environment to run the project.
 
 ## 🚀 Getting Started
 
