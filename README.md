@@ -1,4 +1,4 @@
-# VAE and Deep Spatial Interpolation for Rock Mass Domaining
+# VAE and  Spatial Interpolation for Rock Mass Domaining
 
 This repository contains code for a research project focused on rock mass domaining using Variational Autoencoders (VAE) and a neural-compatible spatial interpolation method. The goal is to generate spatially contiguous domains with consistent rock hardness from Measurements While Drilling (MWD) data.
 
