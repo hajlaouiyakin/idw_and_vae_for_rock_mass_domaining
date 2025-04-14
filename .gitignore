@@ -27,3 +27,16 @@ Thumbs.db
 
 # VSCode
 .vscode/
+vae_idw_env/
+.venv/
+venv/
+*.pyc
+__pycache__/
+*.pkl
+*.pt
+*.pth
+*.tar.gz
+*.zip
+*.h5
+vae_idw_env/
+vae_idw_env/
